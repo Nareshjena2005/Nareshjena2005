@@ -1,36 +1,229 @@
-<h1 align="center">Hi 👋, I'm Naresh Kumar Jena</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- ======================= HEADER ======================= -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nareshjena2005&label=Profile%20views&color=0e75b6&style=flat" alt="nareshjena2005" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nareshjena2005" alt="nareshjena2005" /></a> </p>
+# 👋 Hi, I'm Naresh Kumar Jena
 
-- 🔭 I’m currently working on [RHF-validation](https://github.com/Nareshjena2005/RHF-validation)
+### 💻 Computer Science Engineering Student | Full-Stack Developer | Problem Solver
 
-- 🌱 I’m currently learning **react**
-
-- 👯 I’m looking to collaborate on [RHF-validation](https://github.com/Nareshjena200)
-
-- 🤝 I’m looking for help with [RHF-validation](https://github.com/Nareshjena2005/RHF-validation)
-
-- 💬 Ask me about **FUll stack web**
-
-- 📫 How to reach me **bhagirathj210@gmail.com**
-
-- ⚡ Fun fact **I am student**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/naresh kumar jena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naresh kumar jena" height="30" width="40" /></a>
-<a href="https://instagram.com/nareshjena_2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nareshjena_2005" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/Nareshjena2005">
+    <img src="https://img.shields.io/github/followers/Nareshjena2005?label=Followers&style=for-the-badge&logo=github">
+  </a>
+  <a href="https://github.com/Nareshjena2005?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repos-13-blue?style=for-the-badge&logo=github">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Nareshjena2005&style=for-the-badge&color=blue" alt="Profile Views">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Building+projects+with+code+%F0%9F%9A%80;Learning+Full-Stack+Development+%F0%9F%92%BB;Practicing+DSA+%F0%9F%A7%A0;Turning+ideas+into+working+applications+%E2%9A%A1" alt="Typing SVG">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nareshjena2005&show_icons=true&locale=en&layout=compact" alt="nareshjena2005" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nareshjena2005&show_icons=true&locale=en" alt="nareshjena2005" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nareshjena2005&" alt="nareshjena2005" /></p>
+## 👨‍💻 About Me
 
+- 🎓 B.Tech Computer Science Engineering student
+- 💻 Interested in **Full-Stack Development**
+- 🌱 Currently improving my skills in **React, JavaScript, Node.js and DSA**
+- 🧠 Practicing **Data Structures & Algorithms**
+- 🚀 Building projects to improve my development skills
+- 🎯 Goal: Become a strong software developer
+- ⚡ I enjoy learning by building real projects
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,javascript,html,css" />
+</p>
+
+### ⚛️ Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind" />
+</p>
+
+### 🧩 Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql" />
+</p>
+
+### 🔧 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Microsoft Landing Page
+
+A frontend project built using HTML and CSS while learning modern web layout and styling.
+
+**Tech:** HTML • CSS
+
+<a href="https://github.com/Nareshjena2005/Microsoft-landing-page">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+<td width="50%">
+
+### 📝 JavaScript Todo List
+
+A simple Todo List application built with JavaScript to practice DOM manipulation and application logic.
+
+**Tech:** JavaScript • HTML • CSS
+
+<a href="https://github.com/Nareshjena2005/javascript-todo-list">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github">
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎓 Student Result System
+
+A JavaScript application that calculates student averages and assigns grades using arrays, objects and functions.
+
+**Tech:** JavaScript
+
+<a href="https://github.com/Nareshjena2005/javascript-student-result-system">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+<td width="50%">
+
+### 💻 Adaptive Resource Allocation
+
+A C++ project focused on resource allocation in multiprogramming systems.
+
+**Tech:** C++
+
+<a href="https://github.com/Nareshjena2005/Adaptive-Resource-Allocation-in-Multiprogramming-Systems">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github">
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nareshjena2005&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nareshjena2005&layout=compact&langs_count=8&hide_border=true" />
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Nareshjena2005&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nareshjena2005&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
+
+</div>
+
+---
+
+# 🐍 My Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Nareshjena2005/Nareshjena2005/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+```text
+React.js
+    ↓
+Advanced JavaScript
+    ↓
+Node.js + Express
+    ↓
+MongoDB + PostgreSQL
+    ↓
+REST APIs + Authentication
+    ↓
+Full-Stack Applications
+```
+
+---
+
+# 🎯 2026 Goals
+
+- [x] Learn HTML & CSS
+- [x] Learn JavaScript fundamentals
+- [x] Build frontend projects
+- [ ] Become confident with React
+- [ ] Build full-stack applications
+- [ ] Improve DSA problem solving
+- [ ] Contribute to open source
+- [ ] Build production-ready projects
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Nareshjena2005">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<!-- Add your LinkedIn when ready -->
+<!--
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+-->
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Learning by building, improving by solving."
+
+⭐ If you find my projects useful, consider giving them a star!
+
+</div>
